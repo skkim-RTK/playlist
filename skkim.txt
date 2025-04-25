@@ -1,0 +1,11 @@
+- skkim's VMX DRM test contents.
+
+
+# server: http://172.30.1.25:8080
+
+HLS: 		/DRM_Client_Integration_Test_HLS_Sample-AES/hls_content_bg_std_sampleAES_sampleAES_rev1/content_bg.m3u8
+
+Server 3: 	/DRM_Client_Integration_Test_DASH/dash_content_i_std_3-bitrates_rev1/content_i.mpd
+Server 4: 	/DRM_Client_Integration_Test_DASH/content_i_server4/content_i_server4.mpd
+
+OFFLINE: 	/DRM_Client_Integration_Test_DASH/dash_content_ff3_std_720p_offline_rev1/content_ff_3.mpd
